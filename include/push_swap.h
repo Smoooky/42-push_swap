@@ -30,7 +30,7 @@ typedef struct s_stack
 {
 	t_stack_elem	*head;
 	char			name;
-	long long 		size;
+	long long		size;
 }				t_stack;
 
 typedef struct s_cmd
