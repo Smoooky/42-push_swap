@@ -1,7 +1,7 @@
 # Push_swap
 
 ## What is it?
-This is an algorithmic project was done in School 21 (aka Ecole 42). 
+This is an algorithmic project that was done in School 21 (aka Ecole 42). 
 The goal of this project is to sort stack (a) using another stack (b) with the following operations:
 
 - sa (swap a): Swap the first 2 elements at the top of stack a.
